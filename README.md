@@ -35,3 +35,7 @@ Figure rest out im not holding your hand
 # Why
 
 Im bored + free decent self hosted authentication with session validation
+
+# Help
+
+If you need help contact me on discord soIo#6426 (Capital i not an L)
